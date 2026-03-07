@@ -1,0 +1,4 @@
+node_modules/
+output/
+.env
+src/config/private-key.pem
