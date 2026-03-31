@@ -1,7 +1,7 @@
 ## mb-projects-migration
 
 Migration tool to copy Music Blocks projects from a MySQL database into GitHub repositories using a GitHub App. 
-Tested by migrating 200 Music Blocks projects at https://github.com/orgs/mb-test-org-123/repositories
+**Tested by migrating 200 Music Blocks** projects at https://github.com/orgs/mb-test-org-123/repositories
 
 ### Steps to run:
 
